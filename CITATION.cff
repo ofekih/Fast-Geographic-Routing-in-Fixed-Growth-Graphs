@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gila"
+  given-names: "Ofek"
+  orcid: "https://orcid.org/0009-0005-5931-771X"
+- family-names: "T. Goodrich"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0002-8943-191X"
+- family-names: "M. Illickan"
+  given-names: "Abraham"
+  orcid: "https://orcid.org/0009-0006-4410-7098"
+- family-names: "Sridhar"
+  given-names: "Vinesh"
+  orcid: "https://orcid.org/0009-0009-3549-9589"
+title: "Fast Geographic Routing in Fixed-Growth Graphs"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+# date-released: 2017-12-18
+url: "https://github.com/ofekih/Fast-Geographic-Routing-in-Fixed-Growth-Graphs"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Gila"
+    given-names: "Ofek"
+    orcid: "https://orcid.org/0009-0005-5931-771X"
+  - family-names: "T. Goodrich"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0000-0002-8943-191X"
+  - family-names: "M. Illickan"
+    given-names: "Abraham"
+    orcid: "https://orcid.org/0009-0006-4410-7098"
+  - family-names: "Sridhar"
+    given-names: "Vinesh"
+    orcid: "https://orcid.org/0009-0009-3549-9589"
+    # doi:
+    journal: "14th International Conference on Algorithms and Complexity"
